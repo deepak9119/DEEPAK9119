@@ -1,8 +1,7 @@
 [![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fschool-supplies-double-side-border-banner-top-view-white-wood-background-copy-space-back-to-concept-152148383.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fschool-banner.html&tbnid=TFSvZ3E4DOOf6M&vet=12ahUKEwibzbvavO75AhVgg2MGHRfoCJQQMygeegUIARCtAg..i&docid=VFzdIFysSy6f_M&w=1600&h=674&q=banner%20image&client=safari&ved=2ahUKEwibzbvavO75AhVgg2MGHRfoCJQQMygeegUIARCtAg)
-
 <h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fimage.shutterstock.com%2Fimage-vector%2Fvector-illustration-computer-programmer-working-260nw-184486319.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcartoon-software-engineer&tbnid=NDHvZMHGhbyeLM&vet=12ahUKEwicxdCmv-75AhUzi9gFHYWqDmkQMygMegUIARDrAQ..i&docid=MI-QQZQ1c3tGgM&w=390&h=280&q=software%20development%20images%20animated&client=safari&ved=2ahUKEwicxdCmv-75AhUzi9gFHYWqDmkQMygMegUIARDrAQ”>
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16250175-Working-With-Images-3D-Illustration/attachments/8115091?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak9119&label=Profile%20views&color=0e75b6&style=flat" alt="deepak9119" /> </p>
 
