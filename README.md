@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://deepak9119.io)
+[![MasterHead](https://collectibledry.com/wp-content/uploads/2016/12/banner-gif.gif)](https://deepak9119.io)
 <h1 align="center">Hi 👋, I'm Deepak Sharma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/rudrabarad/Gifs">
+<img align="right" alt="Coding" width="400" src="https://imgs.developpaper.com/imgs/20181230145730690.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak9119&label=Profile%20views&color=0e75b6&style=flat" alt="deepak9119" /> </p>
 
